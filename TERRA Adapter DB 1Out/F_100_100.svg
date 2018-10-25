@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="135mm"
+   height="85mm"
+   viewBox="0 0 135000 85000"
+   version="1.1"
+   id="svg55"
+   sodipodi:docname="F_100_254.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata59">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="970"
+     inkscape:window-height="655"
+     id="namedview57"
+     showgrid="false"
+     inkscape:zoom="1.5"
+     inkscape:cx="255.11811"
+     inkscape:cy="160.62992"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g53" />
+  <defs
+     id="defs17">
+    <radialGradient
+       cx="60000"
+       cy="70000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-1">
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       cx="90000"
+       cy="40000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-2">
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop9" />
+    </radialGradient>
+    <radialGradient
+       cx="60000"
+       cy="10000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-3">
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop14" />
+    </radialGradient>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="none"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray=""
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode: normal"
+     id="g53">
+    <path
+       d="M60089.80256,55089.80256c-49.59659,49.59659 -130.00854,49.59659 -179.60512,0v0c-49.59659,-49.59659 -49.59659,-130.00854 0,-179.60512l15000,-15000c49.59659,-49.59659 130.00854,-49.59659 179.60512,0v0c49.59659,49.59659 49.59659,130.00854 0,179.60512z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path19" />
+    <path
+       d="M60089.80256,60089.80256c-49.59659,49.59659 -130.00854,49.59659 -179.60512,0v0c-49.59659,-49.59659 -49.59659,-130.00854 0,-179.60512l20000,-20000c49.59659,-49.59659 130.00854,-49.59659 179.60512,0v0c49.59659,49.59659 49.59659,130.00854 0,179.60512z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path21" />
+    <path
+       d="M60089.80256,64089.80256c-49.59659,49.59659 -130.00854,49.59659 -179.60512,0v0c-49.59659,-49.59659 -49.59659,-130.00854 0,-179.60512l24000,-24000c49.59659,-49.59659 130.00854,-49.59659 179.60512,0v0c49.59659,49.59659 49.59659,130.00854 0,179.60512z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path23" />
+    <path
+       d="M60089.80256,67089.80256c-49.59659,49.59659 -130.00854,49.59659 -179.60512,0v0c-49.59659,-49.59659 -49.59659,-130.00854 0,-179.60512l27000,-27000c49.59659,-49.59659 130.00854,-49.59659 179.60512,0v0c49.59659,49.59659 49.59659,130.00854 0,179.60512z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path25" />
+    <path
+       fill="none"
+       stroke="#ff7606"
+       stroke-width="200"
+       id="path27" />
+  </g>
+</svg>

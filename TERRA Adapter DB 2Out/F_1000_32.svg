@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="135mm"
+   height="85mm"
+   viewBox="0 0 135000 85000"
+   version="1.1"
+   id="svg83"
+   sodipodi:docname="F_1000_32.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <metadata
+     id="metadata87">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="978"
+     inkscape:window-height="674"
+     id="namedview85"
+     showgrid="false"
+     inkscape:zoom="1.5"
+     inkscape:cx="255.11811"
+     inkscape:cy="160.62992"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g81" />
+  <defs
+     id="defs27">
+    <radialGradient
+       cx="100000"
+       cy="30000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-1">
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop2" />
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop4" />
+    </radialGradient>
+    <radialGradient
+       cx="40000"
+       cy="30000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-2">
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop9" />
+    </radialGradient>
+    <radialGradient
+       cx="70000"
+       cy="60000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-3">
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop12" />
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop14" />
+    </radialGradient>
+    <radialGradient
+       cx="20000"
+       cy="60000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-4">
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop17" />
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop19" />
+    </radialGradient>
+    <radialGradient
+       cx="120000"
+       cy="60000"
+       r="2020"
+       gradientUnits="userSpaceOnUse"
+       id="color-5">
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop22" />
+      <stop
+         offset="1"
+         stop-color="#303f9f"
+         id="stop24" />
+    </radialGradient>
+  </defs>
+  <g
+     fill="none"
+     fill-rule="nonzero"
+     stroke="none"
+     stroke-width="none"
+     stroke-linecap="butt"
+     stroke-linejoin="miter"
+     stroke-miterlimit="10"
+     stroke-dasharray=""
+     stroke-dashoffset="0"
+     font-family="none"
+     font-weight="none"
+     font-size="none"
+     text-anchor="none"
+     style="mix-blend-mode: normal"
+     id="g81">
+    <path
+       d="M39500,30000c0,-276.14237 223.85763,-500 500,-500v0c276.14237,0 500,223.85763 500,500v19000c0,276.14237 -223.85763,500 -500,500v0c-276.14237,0 -500,-223.85763 -500,-500z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path45" />
+    <path
+       d="M39500,51000c0,-276.14237 223.85763,-500 500,-500v0c276.14237,0 500,223.85763 500,500v9000c0,276.14237 -223.85763,500 -500,500v0c-276.14237,0 -500,-223.85763 -500,-500z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path47" />
+    <path
+       d="M99500,31000c0,-276.14237 223.85763,-500 500,-500v0c276.14237,0 500,223.85763 500,500v18000c0,276.14237 -223.85763,500 -500,500v0c-276.14237,0 -500,-223.85763 -500,-500z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path49" />
+    <path
+       d="M99500,51000c0,-276.14237 223.85763,-500 500,-500v0c276.14237,0 500,223.85763 500,500v9000c0,276.14237 -223.85763,500 -500,500v0c-276.14237,0 -500,-223.85763 -500,-500z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path51" />
+    <path
+       d="M91000,60500c-276.14237,0 -500,-223.85763 -500,-500v0c0,-276.14237 223.85763,-500 500,-500h29000c276.14237,0 500,223.85763 500,500v0c0,276.14237 -223.85763,500 -500,500z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path53" />
+    <path
+       d="M51000,60500c-276.14237,0 -500,-223.85763 -500,-500v0c0,-276.14237 223.85763,-500 500,-500h38000c276.14237,0 500,223.85763 500,500v0c0,276.14237 -223.85763,500 -500,500z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path55" />
+    <path
+       d="M21000,60500c-276.14237,0 -500,-223.85763 -500,-500v0c0,-276.14237 223.85763,-500 500,-500h28000c276.14237,0 500,223.85763 500,500v0c0,276.14237 -223.85763,500 -500,500z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="0"
+       id="path57" />
+    <path
+       d="M21000,60400c-220.9139,0 -400,-179.0861 -400,-400v0c0,-220.9139 179.0861,-400 400,-400v0c220.9139,0 400,179.0861 400,400v0c0,220.9139 -179.0861,400 -400,400zM21000,60400c-220.9139,0 -400,-179.0861 -400,-400v0c0,-220.9139 179.0861,-400 400,-400v0c220.9139,0 400,179.0861 400,400v0c0,220.9139 -179.0861,400 -400,400z"
+       fill="#303f9f"
+       stroke="none"
+       stroke-width="1"
+       id="path59" />
+    <path
+       fill="none"
+       stroke="#ff7606"
+       stroke-width="200"
+       id="path69" />
+  </g>
+</svg>
